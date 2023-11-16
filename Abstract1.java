@@ -1,4 +1,5 @@
 //Implementing the abstract class and calling the abstract method in main class
+
 abstract class A {
     int a=10;
     void disp(){
