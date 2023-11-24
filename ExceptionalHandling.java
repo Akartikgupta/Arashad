@@ -6,9 +6,7 @@ public class ExceptionalHandling {
         try{
             int c=a/b;
         }
-        // finally{
-        //     System.out.println("Finally Block");
-        // }
+        
         
         catch(IndexOutOfBoundsException e){
             System.out.println(e);
